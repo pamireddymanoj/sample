@@ -1,2 +1,3 @@
 # sample
-sample file
+sample war file`:wq
+
